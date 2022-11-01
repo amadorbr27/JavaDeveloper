@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "java-anatomia-classes/src",
+        "spring-vscode/src/main/java/com/amador/springvscode"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
